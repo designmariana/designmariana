@@ -1,5 +1,8 @@
 <h2>
-  Hi there! 🧸
+  Hi there! <img height="65" alt="memoji do iphone representando uma menina de pele parda, cabelo castanho escuro com pontas rosa pastel, blusa e acessorios em tons de rosa e azul pastel" src="https://github.com/user-attachments/assets/6d5a5c7e-4b32-480a-86f9-b3f1a0c00087" />
+
+
+
 </h2>
 
 - 🔭 I’m currently working on get more experiences as front-end development.
