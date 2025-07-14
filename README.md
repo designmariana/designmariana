@@ -1,6 +1,7 @@
 ![image width="100%"](https://github.com/user-attachments/assets/c72e4044-3fbe-427d-8d36-7bcacd490ca7)
 <h2>
-  Hi there! <img height="35" alt="memoji do iphone representando uma menina de pele parda, cabelo castanho escuro com pontas rosa pastel, blusa e acessorios em tons de rosa e azul pastel" src="https://github.com/user-attachments/assets/6d5a5c7e-4b32-480a-86f9-b3f1a0c00087" />
+  Hi there! <img height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
+
 </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmariana&show_icons=true&theme=radical) 
@@ -40,7 +41,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<h2> Interests <img height="35" alt="image" src="https://github.com/user-attachments/assets/76485ec5-6360-4d93-9038-4580cd185d79"/>
+<h2> Interests <img height="35" alt="image" src="https://github.com/user-attachments/assets/ae108b7b-9cdc-4ea3-beaf-d9ac537041f4" />
+
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" hspace="5"; width="100%";/>
