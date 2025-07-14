@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c72e4044-3fbe-427d-8d36-7bcacd490ca7)
 <h2>
   Hi there! <img height="35" alt="memoji do iphone representando uma menina de pele parda, cabelo castanho escuro com pontas rosa pastel, blusa e acessorios em tons de rosa e azul pastel" src="https://github.com/user-attachments/assets/6d5a5c7e-4b32-480a-86f9-b3f1a0c00087" />
 </h2>
