@@ -1,4 +1,5 @@
-![image width="100%"](https://github.com/user-attachments/assets/c72e4044-3fbe-427d-8d36-7bcacd490ca7)
+![image width=100%](https://github.com/user-attachments/assets/17d9ecda-9060-43ce-a062-752243e747f2)
+
 <h2>
   Hi there! <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
 
