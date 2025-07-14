@@ -4,6 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmariana&show_icons=true&theme=radical) 
 
+<br>
 <img height="30" alt="image" src="https://github.com/user-attachments/assets/3aa473ce-3db1-4b49-9781-4110f13cb62a" />
  I’m currently working on get more experiences as front-end development.
 <br><img height="30" alt="image" src="https://github.com/user-attachments/assets/2f07f283-db28-4ddc-8a99-70b678b16a36" />
@@ -33,9 +34,11 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="30%" hspace="3";/>
 </p>
 <br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 <h2> Interests <img height="35" alt="image" src="https://github.com/user-attachments/assets/76485ec5-6360-4d93-9038-4580cd185d79"/>
 </h2>
 <p align="left">
