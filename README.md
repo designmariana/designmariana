@@ -19,27 +19,29 @@
 <br>
 <br>
 <p align="left">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="30px"  hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="30px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="30px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="30px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="27px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="24px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="24px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="26px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="30px" hspace="10";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="30px" hspace="10";/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="25%";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="25%";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="22%";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="22%";/>
+<br>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="30%" hspace="3";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="30%" hspace="3";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="27%" hspace="3";/>
+<br>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="27%" hspace="3";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="30%" hspace="3";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="30%" hspace="3";/>
 </p>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Interests <img height="35" alt="image" src="https://github.com/user-attachments/assets/76485ec5-6360-4d93-9038-4580cd185d79" />
+<h2> Interests <img height="35" alt="image" src="https://github.com/user-attachments/assets/76485ec5-6360-4d93-9038-4580cd185d79"/>
 </h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" hspace="5";/>
-<img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" hspace="5";/>
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" hspace="5";/>
+  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" hspace="5"; width="100%";/>
+<img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" hspace="5"; width="100%";/>
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" hspace="5"; width="100%";/>
 </p>
 
 
