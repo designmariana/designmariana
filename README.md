@@ -34,14 +34,14 @@ Pós em UX pela PUCRS.
 <p align="left">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"; width="20%" hspace="5px"/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"; width="20%" hspace="5px"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"; width="20%" hspace="5px"/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"; width="18%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg"; width="18%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"; width="21%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"; width="22%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg"; width="19%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"; width="18%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg"; width="20%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg"; width="20%" hspace="5px"/>
 </p>
 
 
