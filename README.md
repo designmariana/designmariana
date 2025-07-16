@@ -2,7 +2,7 @@
 
 
 <h2>
-  Olá! Eu sou a Ma. <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
+  Olá! Eu sou a Ma. 🧚🏼‍♀️
 </h2>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/924946c0-2964-4644-95f5-000779c86c0e" />
  Desenvolvendo projetos web baseados em html, css e js. 
@@ -43,12 +43,3 @@ Pós em UX pela PUCRS.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2> Interests <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/ae108b7b-9cdc-4ea3-beaf-d9ac537041f4" />
-
-</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" hspace="1"; height="40px"; width="30%";/>
-<img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" hspace="1"; height="40px"; width="30%";/>
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" hspace="1"; height="40px"; width="30%";/>
-</p>
