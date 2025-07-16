@@ -2,12 +2,7 @@
 
 <h2>
   Olá! Eu sou a Ma. <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
-
 </h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmariana&show_icons=true&theme=radical) 
-
-<br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/924946c0-2964-4644-95f5-000779c86c0e" />
  Desenvolvendo projetos web baseados em html, css e js. 
 <br>
@@ -29,6 +24,9 @@ Pós em UX pela PUCRS.
  Fun fact: I'm a Ravenclaw girl 🦅
 <br>
 <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmariana&show_icons=true&theme=radical) 
+
 <p align="left">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="8%";/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="8%";/>
@@ -41,8 +39,6 @@ Pós em UX pela PUCRS.
 <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="8%";/>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="8%";/>
 </p>
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
