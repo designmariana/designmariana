@@ -1,7 +1,7 @@
 ![image width=100%](https://github.com/user-attachments/assets/17d9ecda-9060-43ce-a062-752243e747f2)
 
 <h2>
-  Olá! Eu dou a Ma. <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
+  Olá! Eu sou a Ma. <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
 
 </h2>
 
@@ -18,7 +18,12 @@
  Inglês-Avançado, Espanhol-Intermediário, Italiano-Básico.
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/d3efd8d9-0f3b-4858-a74c-36bc51ef8ff8" />
- Ténica em Informática pela Fortec. Graduada em Produção Multimídia pela UNISANTA. Pós em UX pela PUCRS. 
+ Ténica em Informática pela Fortec. 
+ <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/a9a724aa-a37a-44b6-a41c-411e293a8456" />
+Graduada em Produção Multimídia pela UNISANTA. 
+<br>
+<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/903849b3-6e57-4733-bf66-9105dfe95ddc" />
+Pós em UX pela PUCRS. 
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/0cc731f7-a99f-44bf-9ae7-71ebff517cf6" />
  Fun fact: I'm a Ravenclaw girl 🦅
