@@ -15,6 +15,7 @@
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/d3efd8d9-0f3b-4858-a74c-36bc51ef8ff8" />
  Ténica em Informática pela Fortec. 
  <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/a9a724aa-a37a-44b6-a41c-411e293a8456" />
+ <br>
 Graduada em Produção Multimídia pela UNISANTA. 
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/903849b3-6e57-4733-bf66-9105dfe95ddc" />
