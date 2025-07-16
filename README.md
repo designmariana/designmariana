@@ -1,4 +1,5 @@
-![image width=100%](https://github.com/user-attachments/assets/17d9ecda-9060-43ce-a062-752243e747f2)
+![image](https://github.com/user-attachments/assets/e1044a4f-8d99-4e84-9e31-b9fb81703e30)
+
 
 <h2>
   Olá! Eu sou a Ma. <img align="center" height="35" alt="image" src="https://github.com/user-attachments/assets/9c8109ab-1071-43f9-9ed7-79e94f92b257" />
