@@ -9,16 +9,16 @@
 
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/924946c0-2964-4644-95f5-000779c86c0e" />
- I’m currently working on get more experiences as front-end development.
+ Desenvolvendo projetos web baseados em html, css e js. 
 <br>
 <img align="center" height="37" alt="image" src="https://github.com/user-attachments/assets/5579235f-5fb1-455b-bcf4-4f6f57ec1d63" />
- I’m currently learning front-end development concepts.
+ Aprofundando praticas em ts e python.
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/cab00632-2ed8-4e69-8bb4-05e464ce99ab" />
- Portuguese-Native, Engligh-Advanced.
+ Inglês-Avançado, Espanhol-Intermediário, Italiano-Básico.
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/d3efd8d9-0f3b-4858-a74c-36bc51ef8ff8" />
- Course of Web, Graduation in Multimedia Production (2021) and Post in User Experience (2024).
+ Ténica em Informática pela Fortec. Graduada em Produção Multimídia pela UNISANTA. Pós em UX pela PUCRS. 
 <br>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/0cc731f7-a99f-44bf-9ae7-71ebff517cf6" />
  Fun fact: I'm a Ravenclaw girl 🦅
