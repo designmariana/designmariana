@@ -29,17 +29,19 @@ Pós em UX pela PUCRS.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designmariana&show_icons=true&theme=radical) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" width="7%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" width="7%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" width="8%";/>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="8%";/>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"; width="20%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"; width="20%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"; width="20%" hspace="5px"/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg";/>
+<img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg";/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designmariana&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
