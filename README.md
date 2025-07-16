@@ -2,7 +2,8 @@
 
 
 <h2>
-  Olá! Eu sou a Ma. 🧚🏼‍♀️
+  Olá! Eu sou a Ma. <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/3275d7ca-f61f-4364-9fa9-b9e7c34d0486" />
+
 </h2>
 <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/924946c0-2964-4644-95f5-000779c86c0e" />
  Desenvolvendo projetos web baseados em html, css e js. 
