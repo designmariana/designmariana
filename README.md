@@ -1,29 +1,26 @@
 <img width="100%" src="https://github.com/user-attachments/assets/04b41957-26d3-438d-b604-9330ac2e0469"/>
 <h2>
-<img align="right" height="80" alt="image" src="https://github.com/user-attachments/assets/3275d7ca-f61f-4364-9fa9-b9e7c34d0486" />  <p align="left">Olá, eu sou a Ma!
+<img align="right" height="80" alt="image" src="https://github.com/user-attachments/assets/271944d3-2128-49eb-9d89-5577a41ddc85"/><p align="left">Olá, eu sou a Ma!
   <br>Front-End | HTML | CSS | JS | TS | React | UX/UI </p>
  
 </h2>
-<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/924946c0-2964-4644-95f5-000779c86c0e" />
+<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/58bf9a74-6d2e-4bd7-bfdb-c3679563db6e" />
  Desenvolvendo projetos web baseados em html, css e js. 
 <br>
-<img align="center" height="37" alt="image" src="https://github.com/user-attachments/assets/5579235f-5fb1-455b-bcf4-4f6f57ec1d63" />
+<img align="center" height="37" alt="image" src="https://github.com/user-attachments/assets/eaf4f562-a476-4d57-a8d3-039430c6cb88" />
  Aprofundando praticas em ts e python.
 <br>
-<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/cab00632-2ed8-4e69-8bb4-05e464ce99ab" />
+<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/61a817d8-ec6e-4ada-a4b3-d242d13fc8fd" />
  Inglês-Avançado, Espanhol-Intermediário, Italiano-Básico.
 <br>
-<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/d3efd8d9-0f3b-4858-a74c-36bc51ef8ff8" />
+<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/745682e5-81b4-480b-ac7f-032c7a918409" />
  Ténica em Informática pela FORTEC. 
  <br>
- <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/a9a724aa-a37a-44b6-a41c-411e293a8456" />
+ <img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/824ff8d4-c192-4d58-a263-38c5448d66eb" />
 Graduada em Produção Multimídia pela UNISANTA. 
 <br>
-<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/903849b3-6e57-4733-bf66-9105dfe95ddc" />
+<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/ce643cd2-c1af-4867-966b-47c6ea4156e0" />
 Pós em UX pela PUCRS. 
-<br>
-<img align="center" height="40" alt="image" src="https://github.com/user-attachments/assets/0cc731f7-a99f-44bf-9ae7-71ebff517cf6" />
- Fun fact: I'm a Ravenclaw girl 🦅
 <br>
 <br>
 
