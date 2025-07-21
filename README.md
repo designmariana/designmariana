@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/user-attachments/assets/04b41957-26d3-438d-b604-9330ac2e0469"/>
+<img width="100%" src="https://github.com/user-attachments/assets/c1d9a523-ceae-4411-b527-116e57b01c27"/>
 <h2>
 <img align="right" height="80" alt="image" src="https://github.com/user-attachments/assets/271944d3-2128-49eb-9d89-5577a41ddc85"/><p align="left">Olá, eu sou a Ma!
   <br>Front-End | HTML | CSS | JS | TS | React | UX/UI </p>
